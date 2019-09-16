@@ -18,10 +18,11 @@
   },
   "homepage": "https://github.com/zhongjie526/helloworld#readme",
   "devDependencies": {
-    "mocha": "^2.5.3",
+    "mocha": "^6.2.0",
     "zombie": "^6.1.4"
   },
   "dependencies": {
-    "core-js": "^3.2.1"
+    "core-js": "^3.2.1",
+    "node-gyp": "^5.0.3"
   }
 }
