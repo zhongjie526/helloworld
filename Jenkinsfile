@@ -4,6 +4,9 @@ node {
 	stage 'Checkout'
 		checkout scm
 
+	stage 'Install node'
+		sh 'sudo n stable'
+
 	stage 'Setup'
 		sh 'npm install'
 
