@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/zhongjie526/helloworld#readme",
   "devDependencies": {
-    "mocha": "^2.5.3",
+    "mocha": "^10.2.0",
     "zombie": "^6.1.4"
   },
   "dependencies": {
